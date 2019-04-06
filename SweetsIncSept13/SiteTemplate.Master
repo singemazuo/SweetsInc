@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteTemplate.master.cs" Inherits="SweetsIncSept13.SiteTemplate" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <div id="header">
+                <!--logo image goes here it has an id="logo" -->
+                <a href="~/Default.aspx" runat="server" id="mlink"><asp:Image ID="logo" runat="server" ImageUrl="~/images/Logo.jpg" /></a>
+                <br />
+                <div>
+                    <a href="~/Default.aspx" runat="server">Home</a><span>&nbsp;|&nbsp;</span><a href="~/ShoppingCart.aspx" runat="server">Shopping Cart</a>
+
+                </div>
+                <!--hyperlink with id of cartLink2 is wrapped around the image for the cart - it has the id cartIcon -->
+                <hr />
+                <asp:Label ID="lblMasterMessage" runat="server"
+                    EnableViewState="False" SkinID="msgLabel"></asp:Label>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <footer>
+                <hr />
+                <asp:Label ID="lblDate" runat="server"></asp:Label>
+                <br />
+                Copyright &copy; <%= DateTime.Now.Year %> SweetsInc Candy Company
+              <br />
+                <!--eventually a link to admin login page will appear here -->
+            </footer>
+        </div>
+        </div>
+    </form>
+</body>
+</html>

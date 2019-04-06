@@ -1,0 +1,219 @@
+body {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: medium;
+    line-height: 110%;
+    color: #585880;
+    background-color:silver;
+}
+#wrapper {
+    width: 95%;
+    margin: 1% auto;
+    background-color:white;
+    border:thin solid black;
+}
+.dsable {
+    background-color:silver;
+    
+}
+
+.xspace {
+    padding:5%;
+}
+.enable {
+    background-color:white;
+}
+#header {
+    width:99%;
+    margin:0 auto;
+    text-align:center;
+
+}
+
+#confirmForm {
+    width:99%;
+    margin:1% auto;
+   
+}
+#billing,#shipping{
+    width:43%;
+    padding:1%;
+    float:left;
+    margin-right:3%;
+    border:thin solid black;
+}
+#logincol1{
+	width:60%;
+    margin:5% auto;
+	float:left;
+}
+
+/*label {
+	float:left;
+    width: 100px;
+	text-align: right;
+	margin-left:22%;
+	margin-right:30px;
+}*/
+#main {
+    width:97%;
+    margin:0 auto;
+    text-align:left;
+    padding:1%;
+    overflow:auto;
+    /*background-color:blue;*/
+}
+input,textarea {width:40%;display:block;}
+
+.btn{margin:0 auto; width:100px;}
+
+#col1 ul{
+    margin:0;
+    padding:0;
+    display:block;
+}
+#col1 {
+    width:25%;
+    float:left;
+    margin-left:5%;
+    margin-right:0;
+}
+#col1 li{
+    display:block;
+    height:2em;
+    padding:0.5em;
+    background-color:lightgray;
+}
+#col2 img {
+    border: thin solid lightgrey;
+    vertical-align:text-top;
+}
+#col2 hr{
+    margin:0.5em 0;
+}
+#col li:hover{
+    background-color:black;
+    color:white;
+}
+#col1 a {
+    text-decoration: none;
+    vertical-align:middle;
+}
+#col2 {
+    width:35%;
+    float:left;
+    margin-left:0;
+    padding-left:1%;
+    padding-right:1%;
+  /*background-color:yellow;*/
+}
+#col2 ul{
+    list-style:none;
+}
+#col3 {
+    width:20%;
+    float:left;
+    margin-left:2%;
+    padding:1%;
+    vertical-align:top;
+  /*background-color:red;*/
+}
+
+#full {
+    width:95%;
+    margin:1% auto;
+
+}
+#confirmAdd, #confirmAdd table {
+    width:50%;
+    margin: 0 auto;
+}
+
+#SearchForm {
+    /*background-color:yellow;*/
+
+}
+footer {
+    clear:both;
+    text-align:center;
+}
+.pImage {
+    /*float:left;*/
+    margin-right:10px;
+    vertical-align:top;
+    border:thin solid black;
+    clear:both;
+}
+.pImageR {
+    float:right;
+    margin-left:10px;
+    
+}
+#lblMasterMessage {color:#7BBF6A; font-weight:bold;
+}
+.ProductDetails {
+    clear:both;
+    padding:1%;
+    overflow:auto;
+    width:100%;
+}
+#ucDemo {
+   
+    font-weight:bolder;
+    font-size:x-large;
+}
+a:link {
+    color: #232377;
+}
+
+
+a:hover {
+    color: #6464FE;
+    text-decoration:none;
+}
+
+a:visited{
+    color: #232377;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #585880;
+    margin-top: 3px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #585880;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #585880;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #585880;
+}
+
+h5 {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #585880;
+}
+
+h6 {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #585880;
+}
+
+.theme_header {
+    background-image :url(images/smokeandglass_brownfadetop.gif);
+}
+
+.theme_highlighted {
+    background-image :url(images/smokeandglass_blueandwhitef.gif);
+}
+
+.theme_fadeblue {
+    background-image :url(images/smokeandglass_fadeblue.gif);
+}

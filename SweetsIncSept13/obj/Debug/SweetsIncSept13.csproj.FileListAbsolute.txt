@@ -1,0 +1,112 @@
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\SweetsIncSept13.dll.config
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\SweetsIncSept13.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\SweetsIncSept13.pdb
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csc.exe
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csc.exe.config
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csc.rsp
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csi.exe
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csi.exe.config
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csi.rsp
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.Managed.Core.targets
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.AppContext.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Collections.Immutable.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Console.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.Compression.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.FileSystem.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.Pipes.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Reflection.Metadata.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.AccessControl.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Claims.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Principal.Windows.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.ValueTuple.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Xml.XPath.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\vbc.exe
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\vbc.exe.config
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\vbc.rsp
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\VBCSCompiler.exe
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\roslyn\VBCSCompiler.exe.config
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.csprojAssemblyReference.cache
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.csproj.CoreCompileInputs.cache
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.csproj.CopyComplete
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.dll
+C:\NBCC\NBCC courses\Term 4\Server Side Web Dev - ASP.Net\02 Classwork\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.pdb
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\SweetsIncSept13.dll.config
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\SweetsIncSept13.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\SweetsIncSept13.pdb
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csc.exe
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csc.exe.config
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csc.rsp
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csi.exe
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csi.exe.config
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\csi.rsp
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.AppContext.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Console.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\vbc.exe
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\vbc.exe.config
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\vbc.rsp
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.csprojAssemblyReference.cache
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.csproj.CoreCompileInputs.cache
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.csproj.CopyComplete
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.dll
+C:\Users\Yinbin Zuo\Downloads\TeamAct4\SweetsIncSept13\SweetsIncSept13\obj\Debug\SweetsIncSept13.pdb
